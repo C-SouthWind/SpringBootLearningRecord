@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author ：chj
- * @date ：Created in 2021/2/15 16:35
- * @params :  aop启动类
+ * @date ：Created in 2021/2/16 18:44
+ * @params :  启动类
  */
 @RestController
 @SpringBootApplication

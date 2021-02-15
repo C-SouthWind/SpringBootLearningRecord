@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>springboot-aop</module>
+        <module>springboot-timer</module>
     </modules>
     <packaging>pom</packaging>
     <description>SpringBoot系列demo代码</description>
