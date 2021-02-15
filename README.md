@@ -1,6 +1,9 @@
 ## 简介<br/> 
 SpringBoot系列Demo代码<br/>
 
+SpringBoot用的是2.1.0.RELEASE，Demo代码主要参照官方文档，以及百度、google写的，每一个子工程就是一个小案例，简单明了<br/>
+这里的测试例子基本上跟博客的一样，没什么修改，大家看博客就好了<br/>
+
 父项目是一个maven项目，继承spring-boot-starter-parent，同时引入了部分公用依赖<br/>
 ```xml
     <!--  父类继承spring-boot-starter-parent  -->
@@ -53,18 +56,20 @@ SpringBoot系列Demo代码<br/>
 ```xml
     <!--继承父类-->
     <parent>
-        <groupId>com.chj</groupId>
+        <groupId>cn.huanzi.qch</groupId>
         <artifactId>parent</artifactId>
         <version>1.0.0</version>
     </parent>
 ```
 <br/>
 
-每个子项目都是SpringBoot的一个知识点或者说技能点，具体见名思意！子项目相互之间并无关系，具体的知识点介绍都有对应的博客，详情请看下方的“前往博客查看详情”
+每个子项目都是SpringBoot的一个知识点或者说技能点，具体见名思意！
 
 ## 仓库地址<br/> 
 https://github.com/C-SouthWind/SpringBootLearningRecord<br/> 
 
+| 项目 | 博客 |
+|  ----  | ----  |
 | springboot-aop | [SpringBoot系列——aop 面向切面](https://www.cnblogs.com/huanzi-qch/p/9916478.html) |
 | springboot-async | [SpringBoot系列——@Async优雅的异步调用](https://www.cnblogs.com/huanzi-qch/p/11231041.html) |
 | springboot-banner | [SpringBoot系列——花里胡哨的banner.txt](https://www.cnblogs.com/huanzi-qch/p/9916784.html) |
