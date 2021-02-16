@@ -11,6 +11,7 @@
         <module>springboot-aop</module>
         <module>springboot-timer</module>
         <module>springboot-banner</module>
+        <module>springboot-thymeleaf</module>
     </modules>
     <packaging>pom</packaging>
     <description>SpringBoot系列demo代码</description>
