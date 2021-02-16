@@ -10,6 +10,7 @@
     <modules>
         <module>springboot-aop</module>
         <module>springboot-timer</module>
+        <module>springboot-banner</module>
     </modules>
     <packaging>pom</packaging>
     <description>SpringBoot系列demo代码</description>
