@@ -13,6 +13,7 @@
         <module>springboot-banner</module>
         <module>springboot-thymeleaf</module>
         <module>springboot-jar-war</module>
+        <module>springboot-mail</module>
     </modules>
     <packaging>pom</packaging>
     <description>SpringBoot系列demo代码</description>
